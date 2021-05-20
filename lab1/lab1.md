@@ -3,3 +3,5 @@
 ![git status](gitstatus.jpeg)
 **git status**
 ![git init](getinit.jpeg)
+**git checkout**
+![git checkout](gitcheckout.jpeg)
