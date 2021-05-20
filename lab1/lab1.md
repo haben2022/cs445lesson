@@ -5,3 +5,5 @@
 ![git init](getinit.jpeg)
 **git checkout**
 ![git checkout](gitcheckout.jpeg)
+**git commit**
+![git commit](gitcommit.jpeg)
