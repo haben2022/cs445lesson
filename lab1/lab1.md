@@ -11,3 +11,5 @@
 ![git diff](gitdiff.jpeg)
 **git restore**
 ![git restore](gitrestore.jpeg)
+**git revert**
+![git revert](gitrevert.jpeg)
