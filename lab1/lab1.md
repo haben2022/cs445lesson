@@ -7,3 +7,5 @@
 ![git checkout](gitcheckout.jpeg)
 **git commit**
 ![git commit](gitcommit.jpeg)
+**git diff**
+![git diff](gitdiff.jpeg)
