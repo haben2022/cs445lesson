@@ -9,3 +9,5 @@
 ![git commit](gitcommit.jpeg)
 **git diff**
 ![git diff](gitdiff.jpeg)
+**git restore**
+![git restore](gitrestore.jpeg)
